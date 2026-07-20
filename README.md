@@ -1,16 +1,106 @@
-# React + Vite
+# 🚀 React Playground
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A collection of React practice projects and UI components built while learning modern React development.
 
-Currently, two official plugins are available:
+## 📌 About
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+This repository contains my React learning journey, including:
 
-## React Compiler
+- ⚛️ React Components
+- 🎨 Responsive UI Design
+- 🧩 Props
+- 🔄 Rendering Lists with `map()`
+- 📦 Component Reusability
+- 🎯 JSX
+- 💨 Tailwind CSS Styling
+- ⚡ Vite
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+- React.js
+- Vite
+- Tailwind CSS
+- JavaScript (ES6+)
+- HTML5
+- CSS3
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📂 Project Structure
+
+```
+React-Playground/
+│
+├── src/
+│   ├── Components/
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+│
+├── public/
+├── package.json
+└── README.md
+```
+
+## 🚀 Getting Started
+
+Clone the repository
+
+```bash
+git clone https://github.com/RAJCHITTORIYA/React-Playground.git
+```
+
+Go to the project directory
+
+```bash
+cd React-Playground
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Start the development server
+
+```bash
+npm run dev
+```
+
+## 📚 What I'm Learning
+
+- Functional Components
+- Component Composition
+- Props
+- Conditional Rendering
+- List Rendering
+- Event Handling
+- State Management
+- Responsive Layouts
+- Tailwind CSS
+- Reusable UI Components
+
+## 🎯 Future Plans
+
+- React Hooks
+- React Router
+- Context API
+- API Integration
+- Authentication
+- CRUD Applications
+- Framer Motion
+- Redux Toolkit
+- Next.js
+
+## 🤝 Contributing
+
+This repository is mainly for learning and practice. Suggestions and improvements are always welcome.
+
+## 👨‍💻 Author
+
+**Raj Chittoriya**
+
+- GitHub: https://github.com/RAJCHITTORIYA
+
+---
+
+⭐ If you find this repository useful, don't forget to star it.
